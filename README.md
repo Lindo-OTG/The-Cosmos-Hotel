@@ -7,7 +7,7 @@ The customer had to be added to the database, be able to view avialable rooms, m
 
 # Project Startup
 * Restore Database .Bak file or use Entity framework to create an image of the database in your SQL Server
-* Change the connection string property in the project properties to your database connection string
+* Change the connection string property in the app.config file and datahandler file (change the data source) to your database connection string
 * Build the Project
 * Navigate to the Bin folder, and execute the .exe file
 
