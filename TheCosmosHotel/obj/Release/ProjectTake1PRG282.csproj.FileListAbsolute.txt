@@ -1,0 +1,13 @@
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\bin\Release\ProjectTake1PRG282.exe
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\bin\Release\ProjectTake1PRG282.pdb
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\bin\Release\MetroFramework.dll
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\obj\Release\ProjectTake1PRG282.frmBookings.resources
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\obj\Release\ProjectTake1PRG282.frmCustomerss.resources
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\obj\Release\ProjectTake1PRG282.frmMenu.resources
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\obj\Release\ProjectTake1PRG282.frmLogIn.resources
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\obj\Release\ProjectTake1PRG282.frmRooms.resources
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\obj\Release\ProjectTake1PRG282.Properties.Resources.resources
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\obj\Release\ProjectTake1PRG282.csproj.GenerateResource.Cache
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\obj\Release\ProjectTake1PRG282.exe
+C:\Users\Lindo\Desktop\ProjectTake1PRG282-1\ProjectTake1PRG282\ProjectTake1PRG282\obj\Release\ProjectTake1PRG282.pdb
