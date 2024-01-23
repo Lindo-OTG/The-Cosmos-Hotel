@@ -2,7 +2,7 @@
 Hotel management Desktop App.
 
 a bit of context:
-i was tasked to create a windows form hotel management app, linked to a sql database, to keep track of bookings in a hotel.
+We were tasked to create a windows form hotel management app, linked to a sql database, to keep track of bookings in a hotel.
 The customer had to be added to the database, be able to view avialable rooms, make a booking, get notifications etc...
 
 # Project Startup
